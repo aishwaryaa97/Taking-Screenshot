@@ -14,4 +14,4 @@ Opencv
 
 Pyautogui
  
- pip3 install pyautogui --user
+ pip install pyautogui (for windows)
